@@ -25,3 +25,12 @@ Recruiters often receive thousands of resumes. This system helps automate resume
 cd model
 python train_model.py
 
+
+ai-resume-screening-system/
+├── data/
+├── model/
+├── app/
+├── notebooks/
+├── requirements.txt
+└── README.md
+
